@@ -1,3 +1,5 @@
+Repositório clonado do Conect2ai para experimentos com testes metamórficos.
+
 &nbsp;
 &nbsp;
 <p align="center">
